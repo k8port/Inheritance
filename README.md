@@ -3,7 +3,8 @@ Inheritance
 
 Projects completed from Chapter 7, Absolute Java, 5th edition by Walter Savitch.
 
-Programming projects demonstrate inheritance and encapsulation.
+Programming project demonstrating inheritance and encapsulation with different forms of payment.
+
 
 
 About me:
